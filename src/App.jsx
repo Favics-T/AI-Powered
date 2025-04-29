@@ -3,7 +3,8 @@ import {
 import Home from "./pages/Home"
   const Layout = ()=>{
     <div>
-
+      
+        <Outlet />
     </div>
   }
 function App() {
